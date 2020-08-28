@@ -1,0 +1,2 @@
+# class names
+names: ['coating_particle', 'mask', 'transport_particle', 'previous', 'mask_s', 'mask_l']
